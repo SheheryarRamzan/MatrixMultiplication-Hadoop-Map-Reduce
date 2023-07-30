@@ -1,6 +1,4 @@
 # ParallelMatrixMultiplication-Hadoop-Map-Reduce
-Implemented a parallel matrix multiplication using MapReduce Framework in MPI (Hadoop)
-
 The code implements a distributed matrix multiplication algorithm using MPI. Here are the instructions to execute the code:
 
 1. Compile the code using the mpicc compiler: mpicc Project.c -o main
